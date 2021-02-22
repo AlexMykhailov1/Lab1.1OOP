@@ -1,0 +1,4 @@
+﻿  UnitTest1.1OOP.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.1\Lab1.1\Combination.cpp(9,9): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+Y:\Programming\Projects\Projects OOP\Lab1.1\Lab1.1\Combination.cpp(13,9): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  UnitTest1.1OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.1\Debug\UnitTest1.1OOP.dll

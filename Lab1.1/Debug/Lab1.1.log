@@ -1,0 +1,4 @@
+﻿  Combination.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.1\Lab1.1\Combination.cpp(9,9): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+Y:\Programming\Projects\Projects OOP\Lab1.1\Lab1.1\Combination.cpp(13,9): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  Lab1.1.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.1\Debug\Lab1.1OOP.exe
